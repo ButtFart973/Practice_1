@@ -6,4 +6,5 @@
 # Write your code below this comment.
 times = int(input("Get a Whole Number: "))
 phrase = input("Enter a phrase: ")
-print(phrase + times)
+phrase = input("Enter a phrase: ")
+print(phrase * times)
